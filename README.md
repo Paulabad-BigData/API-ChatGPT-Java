@@ -1,6 +1,11 @@
 # API-ChatGPT-Java
 
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://www.linkedin.com/in/paulabadt)
+![GitHub contributors](https://img.shields.io/github/contributors/Paulabad-BigData/API-ChatGPT-Java)
+![GitHub follow](https://img.shields.io/github/followers/Paulabad-BigData?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Paulabad-BigData/API-ChatGPT-Java?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Paulabad-BigData/API-ChatGPT-Java?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Paulabad-BigData/API-ChatGPT-Java?style=social)
 
 ## How to get it running
 
