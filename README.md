@@ -13,6 +13,10 @@ For drawing images with DALL-E: http://localhost:8080/image
 Setup proxy
 If you need a proxy to communicate with Internet (ChatGPT API is in Internet), adapt ChatGptController.java like this:
 
+
+https://user-images.githubusercontent.com/77560847/217920045-19a44889-a3e1-497e-b4a7-7655f4dd81aa.mp4
+
+
 Replace: private HttpClient client = HttpClient.newHttpClient();
 with: private HttpClient client = HttpClient.newBuilder().proxy(ProxySelector.of(InetSocketAddress.createUnresolved("proxy.host.com", 8080))).build();
 More information
