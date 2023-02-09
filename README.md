@@ -9,9 +9,7 @@
 
 Project development API connects to GPT-3 for user interaction:
 
-<p align="center">
 https://user-images.githubusercontent.com/77560847/217933722-2cee896e-ed71-481e-813b-392443066ab4.mp4
-</p>
 
 ## Technology
 
