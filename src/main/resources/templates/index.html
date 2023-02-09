@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>ChatGPT & Spring demo</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+		  integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link rel="stylesheet" th:href="@{/css/main.css}" />
+</head>
+<body>
+	<div class="container mt-5">
+		<h1>ChatGPT API</h1>
+		<p>Send message to ChatGPT</p>
+		<form th:action="@{/}" method="post">
+		    <fieldset>
+		        <div class="form-group">
+					<textarea class="form-control" id="prompt" name="prompt" rows="3" th:value="${request}" required autofocus></textarea>
+		        </div>
+		        <div class="row">
+					<button type="submit" class="btn btn-primary">Send</button>
+		        </div>
+		    </fieldset>
+		</form>
+		<p class="mt-3" th:if="${response != null}" th:text="${response}" />
+	</div>
+</body>
+</html>
