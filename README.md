@@ -7,6 +7,12 @@
 ![GitHub forks](https://img.shields.io/github/forks/Paulabad-BigData/API-ChatGPT-Java?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Paulabad-BigData/API-ChatGPT-Java?style=social)
 
+Project development API connects to GPT-3 for user interaction:
+
+<p align="center">
+https://user-images.githubusercontent.com/77560847/217933722-2cee896e-ed71-481e-813b-392443066ab4.mp4
+</p>
+
 ## Technology
 
 - IDE: [Intellij IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows)
