@@ -39,7 +39,7 @@ OpenAI API documentation: https://beta.openai.com/docs/api-reference/completions
 ## Expression of Gratitude
 
 - Comment and share with other Developers about this project 📢
-- Invite me for a [coffee](https://www.buymeacoffee.com/paulabad76Q) ☕ "A fund to support Software Development Students of SENA Dosquebradas - Colombia".
+- Invite me for a [coffee](https://www.buymeacoffee.com/paulabad76Q) ☕ "Raise funds to support Software Development Students of SENA Dosquebradas - Colombia".
 - Say thank you publicly 🤓.
 
 ---
